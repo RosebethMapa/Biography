@@ -1,8 +1,11 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
 PS C:\Users\User\.vscode\web.py\New folder\web.py> python -m streamlit run web.py
 
   You can now view your Streamlit app in your browser.
 
   Local URL: http://localhost:8501
-  Network URL: http://192.168.1.19:8501
-
-
+  Network URL: http://192.168.80.98:8501
